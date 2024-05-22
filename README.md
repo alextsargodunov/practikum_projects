@@ -11,3 +11,4 @@
 
 |#|Наименование проекта| Описание|Стек|
 |--|-----|-----|-----|
+|1|[HR-аналитика](https://github.com/alextsargodunov/practikum_projects/tree/main/HR-аналитика)|
